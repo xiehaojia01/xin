@@ -1,0 +1,1 @@
+include ':app', ':greendao', ':week01', ':retrofitdemo', ':week1', ':paydemo', ':fenlei', ':week2', ':week02', ':sousuo', ':gouwuche', ':newfragment'
